@@ -12,9 +12,11 @@ The `src/app.js` contains an array of 100 chocolates. We are talking about the 1
 
 Every function will take the `chocolates` array as it's first input by default.
 
-### Tests
+### How to approach a lab:
 
-As usual, open the `SpecRunner.html` file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
+Before starting have a look through the link below - to get an idea as how to approach the lab.
+
+![](https://docs.google.com/document/d/1SZ2Pryj6kAJj63wdB2_xVJgQHq6GddeZQ3nqDXYeaBA/edit?usp=sharing)
 
 ### Progression 1: MORE! MORE! MORE!
 
