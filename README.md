@@ -51,6 +51,8 @@ Cait wants to the ability to change the color of the chocolates now. Little does
 Caits wants to change all chocolates of a given color to some other color. Pretty sure she's trying to get rid of all the green chocolates. Create a function `changeChocolateColorAllOfxCount()` which takes the argument `chocolates,color, finalColor` and changes all chocolates of color to finalColor. It should _return [countOfFinalColorChocolates, chocolates]_.
 
 **NOTE:** Challenges are not included in test cases -> Challenges are meant for experimenting around.
+To check whether your approach is correct for challenges given below --> you can go to `tests/FunctionsTest.js` file, and uncomment the section from line number 757-817.
+This will basically unlock the test cases for the challenges given below.
 
 ### Challenge 1: Fresh pickings!
 
